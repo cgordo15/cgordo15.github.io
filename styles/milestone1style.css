@@ -1,0 +1,56 @@
+header {
+	color: #f2f3f4;
+	text-align: center;
+	font-size: 32px;
+	border-style: groove;
+}
+
+body{
+	background-color: #28b463;
+	color: #f2f3f4;
+}
+
+h3{
+	color: #f2f3f4;
+	text-align: center;
+	text-decoration: underline;
+	letter-spacing: 2px;
+	word-spacing: 1.6px;
+	font-size: 23px;
+}
+
+p{
+	color: #f2f3f4;
+	text-align: center;
+	font-family: "Georgia", serif;
+	font-size: 18px;
+	line-height: 3px;
+	font: italic;
+}
+
+strong {
+	color: dodgerblue;
+}
+figure ~ em {
+	color: #f2f3f4;
+	font: italic;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	margin-left: 150px;
+	margin-right: auto;
+	font-family: "Georgia", serif;
+	color: dodgerblue;
+}
+
+div {
+	text-align: center;
+	color: #f2f3f4;
+}
+

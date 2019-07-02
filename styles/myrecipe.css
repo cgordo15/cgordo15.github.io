@@ -1,0 +1,97 @@
+header {
+	color: red;
+	text-align: center;
+}
+
+body{
+	background-color: #626161;
+	color: red;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	border-style: solid;
+	background-color: black;
+	padding: 0.4em;
+	width: 950px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h4 {
+	color: red;
+	font-size: 26px;
+	margin-left: 100px;
+}
+
+caption {
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 24px;
+}
+
+table {
+	border: 6px solid black;
+	width: 750px;
+	font-size: 18px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gainsboro;
+}
+
+td {
+	border: 1px dotted black;
+}
+tr:first-of-type {
+	color: white;
+	font-size: 18px;
+	background-color: black;
+}
+
+#food {
+	float: right;
+	width: 650px;
+	height: 450px;;
+}
+
+ol {
+	display: block;
+	text-align: justify;
+	margin-left: 100px;
+	color: white;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-family: "Georgia", serif;
+	font-size: 22px;
+}
+
+img {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	align-items: center;
+	font-family: "Georgia", serif;
+	color: dodgerblue;
+}
+
+div {
+	text-align: center;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
